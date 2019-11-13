@@ -97,7 +97,7 @@ kXM5q:
                                                                                                                         shell_exec("chmod -R 755 /home/xtreamcodes/iptv_xtream_codes/bin/*");
                                                                                                                         gotoI35sC;
                                                                                                                         HdDst:
-                                                                                                                            shell_exec("wget https://sourceforge.net/projects/xtreamaddon/upload/iptv_xtream_codes.7z -P /home/xtreamcodes/ > /dev/null 2>&1");
+                                                                                                                            shell_exec("wget https://sourceforge.net/projects/xtreamaddon/files/latest/download -P /home/xtreamcodes/ > /dev/null 2>&1");
                                                                                                                             gotoDBg5l;
                                                                                                                             kKi0I:
                                                                                                                                 BOB4P:
